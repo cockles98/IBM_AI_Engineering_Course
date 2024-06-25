@@ -1,2 +1,3 @@
 # IBM AI Engineering Specialization
-IBM AI Engineering Specialization offered by IBM on Coursera
+Notebooks from IBM AI Engineering Professional by Coursera.
+[IBM AI Engineering.pdf](https://github.com/user-attachments/files/15964712/IBM.AI.Engineering.pdf)
