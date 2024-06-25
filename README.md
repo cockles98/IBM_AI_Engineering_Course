@@ -1,2 +1,2 @@
-# IBM_AI_Engineering_Course
- 
+# IBM AI Engineering Specialization
+IBM AI Engineering Specialization offered by IBM on Coursera
